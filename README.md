@@ -1,7 +1,13 @@
 # Hi! 👋
 I'm Ben, a CS student currently studying at the University of York! 🦆
 
-## About me
+## Fields of interest
+- Software Engineering
+- Machine Learning
+- Data Science
+- Web Development
+- UI/UX
+- Game Development
 
 ## I Have Used
 <p align="left">
