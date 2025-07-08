@@ -1,7 +1,7 @@
 # Hi! 👋
 I'm Ben, a CS student currently studying at the University of York! 🦆
 
-## Fields of interest
+## I'm Interested In
 - Software Engineering
 - Machine Learning
 - Data Science
