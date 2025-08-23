@@ -1,9 +1,14 @@
 # Hi! 👋
 I'm Ben, a CS student currently studying at the University of York! 🦆
 
+## Projects
+- [FPL AI](https://github.com/BenLeaver/FPL-Prediction-AI): Project using machine learning to predict the players which are best picks in the Fantasy Premier League (FPL) game.
+- [Sudoku Game](https://github.com/BenLeaver/Sudoku-Game): A Sudoku Game programmed in Java.
+
+
 ## I'm Interested In
 - Software Engineering
-- Machine Learning
+- AI
 - Data Science
 - Web Development
 - UI/UX
