@@ -3,6 +3,7 @@ I'm Ben, a CS student currently studying at the University of York! 🦆
 
 ## Projects
 - [FPL AI](https://github.com/BenLeaver/FPL-Prediction-AI): Project using machine learning to predict the players which are best picks in the Fantasy Premier League (FPL) game.
+- [Ant Warfare](https://github.com/BenLeaver/Ant-Warfare): A real-time strategy game made in Unity where players control ant colonies and compete for survival.
 - [Sudoku Game](https://github.com/BenLeaver/Sudoku-Game): A Sudoku Game programmed in Java.
 
 
